@@ -1,0 +1,18 @@
+[
+  {
+    "package": "codename",
+    "oncran": true
+  },
+  {
+    "package": "peacesciencer",
+    "oncran": true
+  },
+  {
+    "package": "stevedata",
+    "oncran": true
+  },
+  {
+    "package": "stevemisc",
+    "oncran": true
+  }
+]
