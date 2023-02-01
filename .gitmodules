@@ -23,3 +23,8 @@
 	url = https://github.com/svmiller/stevemisc
 	shallow = true
 	registered = true
+[submodule "stevethemes"]
+	path = stevethemes
+	url = https://github.com/svmiller/stevethemes
+	shallow = true
+	registered = true

@@ -14,5 +14,9 @@
   {
     "package": "stevemisc",
     "oncran": true
+  },
+  {
+    "package": "stevethemes",
+    "oncran": true
   }
 ]
