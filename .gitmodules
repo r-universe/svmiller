@@ -8,6 +8,11 @@
 	url = https://github.com/svmiller/codename
 	shallow = true
 	registered = true
+[submodule "dragracer"]
+	path = dragracer
+	url = https://github.com/svmiller/dragracer
+	shallow = true
+	registered = true
 [submodule "peacesciencer"]
 	path = peacesciencer
 	url = https://github.com/svmiller/peacesciencer
@@ -21,6 +26,11 @@
 [submodule "stevemisc"]
 	path = stevemisc
 	url = https://github.com/svmiller/stevemisc
+	shallow = true
+	registered = true
+[submodule "stevetemplates"]
+	path = stevetemplates
+	url = https://github.com/svmiller/stevetemplates
 	shallow = true
 	registered = true
 [submodule "stevethemes"]

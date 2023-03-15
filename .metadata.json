@@ -4,6 +4,10 @@
     "oncran": true
   },
   {
+    "package": "dragracer",
+    "oncran": true
+  },
+  {
     "package": "peacesciencer",
     "oncran": true
   },
@@ -13,6 +17,10 @@
   },
   {
     "package": "stevemisc",
+    "oncran": true
+  },
+  {
+    "package": "stevetemplates",
     "oncran": true
   },
   {
