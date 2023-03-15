@@ -1,6 +1,6 @@
 [
   {
-    "package": "stevemisc",
+    "package": "codename",
     "oncran": true
   },
   {
@@ -8,11 +8,11 @@
     "oncran": true
   },
   {
-    "package": "codename",
+    "package": "stevedata",
     "oncran": true
   },
   {
-    "package": "stevedata",
+    "package": "stevemisc",
     "oncran": true
   },
   {

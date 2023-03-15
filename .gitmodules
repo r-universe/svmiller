@@ -3,9 +3,9 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "stevemisc"]
-	path = stevemisc
-	url = https://github.com/svmiller/stevemisc
+[submodule "codename"]
+	path = codename
+	url = https://github.com/svmiller/codename
 	shallow = true
 	registered = true
 [submodule "peacesciencer"]
@@ -13,14 +13,14 @@
 	url = https://github.com/svmiller/peacesciencer
 	shallow = true
 	registered = true
-[submodule "codename"]
-	path = codename
-	url = https://github.com/svmiller/codename
-	shallow = true
-	registered = true
 [submodule "stevedata"]
 	path = stevedata
 	url = https://github.com/svmiller/stevedata
+	shallow = true
+	registered = true
+[submodule "stevemisc"]
+	path = stevemisc
+	url = https://github.com/svmiller/stevemisc
 	shallow = true
 	registered = true
 [submodule "stevethemes"]
